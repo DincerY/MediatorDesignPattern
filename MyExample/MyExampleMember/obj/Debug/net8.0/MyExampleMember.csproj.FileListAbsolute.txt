@@ -1,0 +1,11 @@
+C:\Users\dince\RiderProjects\MediatorDesignPattern\MyExample\MyExampleMember\bin\Debug\net8.0\MyExampleMember.deps.json
+C:\Users\dince\RiderProjects\MediatorDesignPattern\MyExample\MyExampleMember\bin\Debug\net8.0\MyExampleMember.dll
+C:\Users\dince\RiderProjects\MediatorDesignPattern\MyExample\MyExampleMember\bin\Debug\net8.0\MyExampleMember.pdb
+C:\Users\dince\RiderProjects\MediatorDesignPattern\MyExample\MyExampleMember\obj\Debug\net8.0\MyExampleMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\MediatorDesignPattern\MyExample\MyExampleMember\obj\Debug\net8.0\MyExampleMember.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\MediatorDesignPattern\MyExample\MyExampleMember\obj\Debug\net8.0\MyExampleMember.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\MediatorDesignPattern\MyExample\MyExampleMember\obj\Debug\net8.0\MyExampleMember.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\MediatorDesignPattern\MyExample\MyExampleMember\obj\Debug\net8.0\MyExampleMember.dll
+C:\Users\dince\RiderProjects\MediatorDesignPattern\MyExample\MyExampleMember\obj\Debug\net8.0\refint\MyExampleMember.dll
+C:\Users\dince\RiderProjects\MediatorDesignPattern\MyExample\MyExampleMember\obj\Debug\net8.0\MyExampleMember.pdb
+C:\Users\dince\RiderProjects\MediatorDesignPattern\MyExample\MyExampleMember\obj\Debug\net8.0\ref\MyExampleMember.dll

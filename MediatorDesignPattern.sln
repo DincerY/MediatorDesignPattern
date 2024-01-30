@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorDesignPattern", "MediatorDesignPattern\MediatorDesignPattern.csproj", "{9418AB1B-3153-4733-8EB2-262E8CC27399}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorMember", "MediatorMember\MediatorMember.csproj", "{0CBE7DA7-41E5-4A5D-89A6-D83E8DE3184D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MyExample", "MyExample", "{4BBCE533-84C6-422B-88A7-65E59758BFBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyExampleApp", "MyExample\MyExampleApp\MyExampleApp.csproj", "{A335A30A-F0A2-4B8E-B7B9-B364685979C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyExampleMember", "MyExample\MyExampleMember\MyExampleMember.csproj", "{A7C7CD20-8D52-4785-BF72-433EE900CD33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9418AB1B-3153-4733-8EB2-262E8CC27399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9418AB1B-3153-4733-8EB2-262E8CC27399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9418AB1B-3153-4733-8EB2-262E8CC27399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9418AB1B-3153-4733-8EB2-262E8CC27399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CBE7DA7-41E5-4A5D-89A6-D83E8DE3184D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CBE7DA7-41E5-4A5D-89A6-D83E8DE3184D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CBE7DA7-41E5-4A5D-89A6-D83E8DE3184D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CBE7DA7-41E5-4A5D-89A6-D83E8DE3184D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A335A30A-F0A2-4B8E-B7B9-B364685979C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A335A30A-F0A2-4B8E-B7B9-B364685979C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A335A30A-F0A2-4B8E-B7B9-B364685979C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A335A30A-F0A2-4B8E-B7B9-B364685979C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7C7CD20-8D52-4785-BF72-433EE900CD33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C7CD20-8D52-4785-BF72-433EE900CD33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C7CD20-8D52-4785-BF72-433EE900CD33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C7CD20-8D52-4785-BF72-433EE900CD33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A335A30A-F0A2-4B8E-B7B9-B364685979C8} = {4BBCE533-84C6-422B-88A7-65E59758BFBF}
+		{A7C7CD20-8D52-4785-BF72-433EE900CD33} = {4BBCE533-84C6-422B-88A7-65E59758BFBF}
+	EndGlobalSection
+EndGlobal
