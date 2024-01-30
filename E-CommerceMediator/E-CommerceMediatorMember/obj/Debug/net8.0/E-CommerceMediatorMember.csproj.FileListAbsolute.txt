@@ -1,0 +1,12 @@
+C:\Users\dince\RiderProjects\MediatorDesignPattern\E-CommerceMediator\E-CommerceMediatorMember\bin\Debug\net8.0\E-CommerceMediatorMember.deps.json
+C:\Users\dince\RiderProjects\MediatorDesignPattern\E-CommerceMediator\E-CommerceMediatorMember\bin\Debug\net8.0\E-CommerceMediatorMember.dll
+C:\Users\dince\RiderProjects\MediatorDesignPattern\E-CommerceMediator\E-CommerceMediatorMember\bin\Debug\net8.0\E-CommerceMediatorMember.pdb
+C:\Users\dince\RiderProjects\MediatorDesignPattern\E-CommerceMediator\E-CommerceMediatorMember\obj\Debug\net8.0\E-CommerceMediatorMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\MediatorDesignPattern\E-CommerceMediator\E-CommerceMediatorMember\obj\Debug\net8.0\E-CommerceMediatorMember.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\MediatorDesignPattern\E-CommerceMediator\E-CommerceMediatorMember\obj\Debug\net8.0\E-CommerceMediatorMember.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\MediatorDesignPattern\E-CommerceMediator\E-CommerceMediatorMember\obj\Debug\net8.0\E-CommerceMediatorMember.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\MediatorDesignPattern\E-CommerceMediator\E-CommerceMediatorMember\obj\Debug\net8.0\E-CommerceMediatorMember.sourcelink.json
+C:\Users\dince\RiderProjects\MediatorDesignPattern\E-CommerceMediator\E-CommerceMediatorMember\obj\Debug\net8.0\E-CommerceMediatorMember.dll
+C:\Users\dince\RiderProjects\MediatorDesignPattern\E-CommerceMediator\E-CommerceMediatorMember\obj\Debug\net8.0\refint\E-CommerceMediatorMember.dll
+C:\Users\dince\RiderProjects\MediatorDesignPattern\E-CommerceMediator\E-CommerceMediatorMember\obj\Debug\net8.0\E-CommerceMediatorMember.pdb
+C:\Users\dince\RiderProjects\MediatorDesignPattern\E-CommerceMediator\E-CommerceMediatorMember\obj\Debug\net8.0\ref\E-CommerceMediatorMember.dll

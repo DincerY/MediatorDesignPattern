@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "E-CommerceMediatorApp/1.0.0": {
+        "dependencies": {
+          "E-CommerceMediatorMember": "1.0.0"
+        },
+        "runtime": {
+          "E-CommerceMediatorApp.dll": {}
+        }
+      },
+      "E-CommerceMediatorMember/1.0.0": {
+        "runtime": {
+          "E-CommerceMediatorMember.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E-CommerceMediatorApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "E-CommerceMediatorMember/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
