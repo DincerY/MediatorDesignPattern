@@ -6,8 +6,9 @@ public class KargoAdimi : Adim
     {
     }
 
-    public override void Surdur()
+    public void KargoTamamla()
     {
-        _alisveris.Surec(this);
+        Console.WriteLine("Kargo tamamlanıyor...");
+        Console.WriteLine("Sipariş işlemleri sonlanmıştır. Keyifli alışverişler");
     }
 }

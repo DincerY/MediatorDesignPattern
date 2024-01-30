@@ -6,8 +6,9 @@ public class SiparisAdimi : Adim
     {
     }
 
-    public override void Surdur()
+    public void SiparisTamamla()
     {
+        Console.WriteLine("Sipariş tamamlanıyor");
         _alisveris.Surec(this);
     }
 }

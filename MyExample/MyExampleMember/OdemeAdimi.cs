@@ -6,8 +6,9 @@ public class OdemeAdimi : Adim
     {
     }
 
-    public override void Surdur()
+    public void OdemeTamamla()
     {
+        Console.WriteLine("Ödeme tamamlanıyor");
         _alisveris.Surec(this);
     }
 }

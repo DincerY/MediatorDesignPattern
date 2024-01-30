@@ -16,3 +16,4 @@ C:\Users\dince\RiderProjects\MediatorDesignPattern\MyExample\MyExampleApp\obj\De
 C:\Users\dince\RiderProjects\MediatorDesignPattern\MyExample\MyExampleApp\obj\Debug\net8.0\MyExampleApp.pdb
 C:\Users\dince\RiderProjects\MediatorDesignPattern\MyExample\MyExampleApp\obj\Debug\net8.0\MyExampleApp.genruntimeconfig.cache
 C:\Users\dince\RiderProjects\MediatorDesignPattern\MyExample\MyExampleApp\obj\Debug\net8.0\ref\MyExampleApp.dll
+C:\Users\dince\RiderProjects\MediatorDesignPattern\MyExample\MyExampleApp\obj\Debug\net8.0\MyExampleApp.sourcelink.json
